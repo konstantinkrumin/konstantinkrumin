@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! My name is Konstantin and I'm a frontend developer aspiring to become fullstack 👋
+
+- :computer: Currently I'm a frontend developer at ICL ST (Kazan, Russia)
+- 🔭 My tech stack is Javascript / Typescript / React / Redux / Python
+- 🔭 Right now I'm learning Django and PostgreSQL and I'm planning to start learning Node / Express / MongoDB / React Native very soon
 
 <!--
 **konstantinkrumin/konstantinkrumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
