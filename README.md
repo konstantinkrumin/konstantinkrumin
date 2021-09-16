@@ -2,7 +2,7 @@
 
 - :briefcase: Currently I'm a frontend developer at ICL Services (Kazan, Russia)
 - :computer: My tech stack is Javascript / Typescript / React / Redux / Python / Django
-- 🔭 Right now I'm learning Node / Express / MongoDB
+- 🔭 Right now I'm learning Node / Express / MongoDB / PostgreSQL
 - ⚡ About me: amateur long-distance runner, traveller, history lover and avid movie fan
 - :speech_balloon: I speak English, Russian and little bit of French
 
