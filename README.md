@@ -1,8 +1,8 @@
 ### Hi there! 👋 My name is Konstantin and I'm a frontend developer aspiring to become fullstack :sunglasses:
 
-- :briefcase: Currently I'm a frontend developer at ICL ST (Kazan, Russia)
-- :computer: My tech stack is Javascript / Typescript / React / Redux / Python
-- 🔭 Right now I'm learning Django and I'm planning to start learning Node / Express / MongoDB / React Native very soon
+- :briefcase: Currently I'm a frontend developer at ICL Services (Kazan, Russia)
+- :computer: My tech stack is Javascript / Typescript / React / Redux / Python / Django
+- 🔭 Right now I'm learning Node / Express / MongoDB
 - ⚡ About me: amateur long-distance runner, traveller, history lover and avid movie fan
 - :speech_balloon: I speak English, Russian and little bit of French
 
