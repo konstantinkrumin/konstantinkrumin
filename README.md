@@ -5,7 +5,7 @@
 - 🔭 Right now I'm learning Node.JS / Express / MongoDB/ Mongoose and aspiring to become a fullstack developer
 - ⚡ About me: amateur long-distance runner, traveller, history lover and avid movie fan
 - :speech_balloon: I speak English, Russian and little bit of French
-- 📫 Reach me: konstantin.krumin@gmail.com
+- 📫 Reach me via konstantin.krumin@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=konstantinkrumin" />
