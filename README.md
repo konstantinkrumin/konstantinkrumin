@@ -2,7 +2,7 @@
 
 - :briefcase: Most recently I worked as a frontend developer at ICL Services (Kazan, Russia)
 - :computer: My tech stack is JS / Typescript / React + Redux / Next.JS / Node.JS + Express / MongoDB / PostgreSQL / GraphQL
-- 🔭 Right now I'm learning Node.JS + Express / MongoDB + Mongoose / GraphQL / React Native
+- 🔭 Right now I'm learning Node.JS + Express / MongoDB + Mongoose / GraphQL
 - ⚡ About me: amateur long-distance runner, traveller, history lover and avid movie fan
 - :speech_balloon: I speak English, Russian and little bit of French
 - 📫 Reach me via konstantin.krumin@gmail.com
