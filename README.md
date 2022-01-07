@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Konstantin and I'm a fullstack developer with a focus on frontend :sunglasses:
 
-- :briefcase: Most recently I worked as a frontend developer at ICL Services (Kazan, Russia)
+- :briefcase: I'm currently working at Hölmetrics (Canada)
 - :computer: My tech stack is JS / Typescript / React + Redux / Next.JS / Node.JS + Express / MongoDB / PostgreSQL / GraphQL
 - 🔭 Right now I'm learning Node.JS + Express / MongoDB + Mongoose / GraphQL
 - ⚡ About me: amateur long-distance runner, traveller, history lover and avid movie fan
