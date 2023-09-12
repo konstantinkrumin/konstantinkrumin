@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Konstantin and I'm a fullstack developer with a focus on frontend :sunglasses:
 
-- :computer: My tech stack is JS / Typescript / React + Redux / Next.JS / React Native / Node.JS + Express / NestJS / MongoDB / PostgreSQL / GraphQL
+- :computer: My tech stack is JS / Typescript / React + Redux / Next.JS / React Native / Node.JS + Express / MongoDB / PostgreSQL
 - ⚡ About me: amateur long-distance runner, traveller, history lover and avid movie fan
 - :speech_balloon: I speak English, Russian and little bit of French
 - 📫 Reach me via konstantin.krumin@gmail.com
