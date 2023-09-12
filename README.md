@@ -10,5 +10,5 @@
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=konstantinkrumin" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinkrumin&langs_count=10&layout=compact&hide=ejs,php,blade,c++,objective-c++&layout=compact" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinkrumin&langs_count=10&layout=compact&hide=ejs,php,blade,c%2B%2B,objective-c%2B%2B" />
 </a>
