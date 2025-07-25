@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Konstantin and I'm a fullstack developer with a focus on frontend / mobile :sunglasses:
 
-- :briefcase: I'm a Senior Mobile Engineer at Intellitix [Toronto, Canada]
+- :briefcase: I'm a Senior Mobile Engineer at Intellitix [ Toronto, Canada ]
 - :computer: My tech stack is JS / Typescript / React / Next.JS / React Native / Node.JS / MongoDB / SQL / GraphQL
 - ⚡ About me: amateur long-distance runner, traveller, history lover and avid movie fan
 - :speech_balloon: I speak English, Russian and little bit of French
